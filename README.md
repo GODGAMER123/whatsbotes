@@ -5,16 +5,14 @@
 </h1>
 <h4 align="center">Moduler UserBot for Whatsapp</h4> -->
 
-![WhatsBot](https://socialify.git.ci/tuhinpal/WhatsBot/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark) <br>
+![WhatsBot](https://socialify.git.ci/GODGAMER123/Whatsbotes/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark) <br>
 
 <p align="center">
-<a href="https://github.com/tuhinpal/WhatsBot/releases">
-    <img src="https://shields.io/badge/WHATSBOT-Version--3.0.0-red?logo=whatsapp&style=for-the-badge"
+<a href="https://github.com/GODGAMER123/WhatsBot/releases">
+    <img src="https://shields.io/badge/WHATSBOTES-Version--3.0.0-red?logo=whatsapp&style=for-the-badge"
          alt="Version"></a><br>
-   <a href="https://github.com/tuhinpal/WhatsBot/wiki">
+   <a href="https://github.com/tuhinpal/Whatsbotes/wiki">
  <img src="https://shields.io/badge/WIKI-red?style=for-the-badge" alt="Wiki"></a>
-  <a href="https://github.com/tuhinpal/WhatsBot/wiki/Demo">
- <img src="https://shields.io/badge/DEMO-red?style=for-the-badge" alt="Demo"></a>
     <a href="#deploy-">
 <img src="https://shields.io/badge/DEPLOY-red?style=for-the-badge" alt="Deploy"></a>
     <a href="#credits-">
@@ -24,7 +22,7 @@
    <a href="#develop-">
  <img src="https://shields.io/badge/Develop-red?style=for-the-badge" alt="Develop"></a><br>
     <a href="#contributors-">
-<img src="https://shields.io/badge/Whatsbot-Contributors-red?style=for-the-badge" alt="Contributors"></a>
+<img src="https://shields.io/badge/Whatsbotes-Contributors-red?style=for-the-badge" alt="Contributors"></a>
 </p>
 
 <br>
@@ -59,23 +57,13 @@
 - **ocr** - Extract Text from Image
 - **courier** - Fetches latest status of Courier/Shipments from multiple providers
 
-[More modules]("https://github.com/tuhinpal/WhatsBot/wiki/Commands")
-
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/GODGAMER123/WhatsBot "Deploy with Heroku")<br>
-
-<!-- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RTyLts?referralCode=tuhin) -->
-
-- [Railway](https://railway.app/) template url is officially removed (https://github.com/tuhinpal/WhatsBot/issues/62)
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/GODGAMER123/whatsbotes "Deploy with Heroku")<br>
 
 ### Commands :
 
-_Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/tuhinpal/WhatsBot/wiki/Commands "Command's Wiki")_
-
-### Develop :
-
-_You can develop your own module for Whatsbot. Check out the [wiki](https://github.com/tuhinpal/WhatsBot/wiki/Development), It is very easy if you know Javascript._
+_Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/GODGAMER123/whatsbotes.wiki.git "Command's Wiki")_
 
 ### How it works :
 
@@ -103,9 +91,7 @@ Whatsbot is fully depended on it's community, Feel free to open a PR if you adde
 ### License & Copyright :
 
 - This Project is [Apache-2.0](https://github.com/tuhinpal/WhatsBot/blob/main/LICENSE) Licensed
-- Copyright 2021 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
+- Copyright 2022 by [Henil Zalavadiya](https://github.com/GODGAMER123)
 
 ### Connect :
-
-- [Channel](https://telegram.dog/whatsbotnews)
-- [Support Group](https://telegram.dog/whatsbotsupport)
+COMING SOON
