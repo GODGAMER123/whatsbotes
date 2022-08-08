@@ -114,7 +114,7 @@ async function handler(id) {
       return {
         permit: false,
         block: true,
-        msg: `*❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by WhatsBot_`,
+        msg: `*❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by Henil_`,
       };
     } else {
       var updateIt = await updateviolant(id, checkPermit.times + 1);
