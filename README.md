@@ -63,7 +63,7 @@
 
 ### Commands :
 
-_Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/GODGAMER123/whatsbotes.wiki.git "Command's Wiki")_
+_Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/GODGAMER123/whatsbotes/wiki.git "Command's Wiki")_
 
 ### How it works :
 
